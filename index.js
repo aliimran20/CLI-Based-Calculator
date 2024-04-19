@@ -42,4 +42,4 @@ switch (operation.operator) {
         break;
     default:
         console.log('Please Select a Valid Operator');
-}
+} 
